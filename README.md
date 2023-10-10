@@ -12,8 +12,8 @@ Asegúrese de tener Photophea instalado en su sistema. Puede descargarlo desde [
 
 2. Importe las dos imágenes que desea convertir en GIF. Puede hacerlo utilizando la opción "Abrir" en la barra de menú o simplemente arrastrando y soltando las imágenes en la interfaz de Photophea.
 
-   ![Imagen 1](OriginalFiles/canasta.jpg)
-   ![Imagen 2](OriginalFiles/pelota.jpg)
+   ![Imagen 1](OriginalFiles/canasta.png)
+   ![Imagen 2](OriginalFiles/pelota.png)
 
 3. Una vez que las imágenes estén abiertas en Photophea, vaya al menú "Archivo" y seleccione "Exportar como GIF".
 
